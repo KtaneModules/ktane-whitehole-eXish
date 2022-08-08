@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: WhiteHoleModule
+  title: White Hole
+  author: eXish
+  description: "Figure out which direction each digit needs to be sent in for when
+    they come out of the White Hole. The module will link with a Black Hole module
+    on the bomb (if available) so any digit sent through that will come through this
+    mod.\n\nThis is a reuploaded item from a creator who wishes to remain anonymous.\r\n\r\nHTML:
+    https://ktane.timwi.de/HTML/White%20Hole.html\r\nPDF: https://ktane.timwi.de/PDF/White%20Hole.pdf\r\n\r\nWhile
+    Hole (WhileHoleModule) v1.7.0\nMaintained by eXish\r\nTwitch Plays and Rule Seed
+    supported"
+  version: 1.7.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: bd5c1f4881f57d54481b44e4c8a7779a, type: 3}
