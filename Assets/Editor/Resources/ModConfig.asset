@@ -15,9 +15,9 @@ MonoBehaviour:
   title: White Hole
   author: eXish
   description: "Figure out which direction each digit needs to be sent in for when
-    they come out of the White Hole. The module will link with a Black Hole module
-    on the bomb (if available) so any digit sent through that will come through this
-    mod.\n\nThis is a reuploaded item from a creator who wishes to remain anonymous.\r\n\r\nHTML:
+    they get pulled out of the White Hole. The module will link with a Black Hole
+    module on the bomb (if available) so any digit sent through that will come through
+    this mod.\n\nThis is a reuploaded item from a creator who wishes to remain anonymous.\r\n\r\nHTML:
     https://ktane.timwi.de/HTML/White%20Hole.html\r\nPDF: https://ktane.timwi.de/PDF/White%20Hole.pdf\r\n\r\nWhile
     Hole (WhileHoleModule) v1.7.0\nMaintained by eXish\r\nTwitch Plays and Rule Seed
     supported"
