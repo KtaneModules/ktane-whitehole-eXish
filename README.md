@@ -1,4 +1,4 @@
-Implemented by a user who wishes to remain anonymous<br/>
+Module by BakersDozenBagels<br/>
 Based on the Black Hole module by Timwi<br/>
 Maintained by eXish<br/>
 <br/>
