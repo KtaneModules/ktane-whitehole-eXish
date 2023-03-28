@@ -1,4 +1,4 @@
-Module by BakersDozenBagels<br/>
+Module by Anonymous<br/>
 Based on the Black Hole module by Timwi<br/>
 Maintained by eXish<br/>
 <br/>

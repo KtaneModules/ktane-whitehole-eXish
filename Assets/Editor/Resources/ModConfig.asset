@@ -18,7 +18,7 @@ MonoBehaviour:
     they get pulled out of the White Hole. The module will link with a Black Hole
     module on the bomb (if available) so any digit sent through that will come through
     this mod.\n\r\nHTML: https://ktane.timwi.de/HTML/White%20Hole.html\r\nPDF: https://ktane.timwi.de/PDF/White%20Hole.pdf\r\n\r\nWhile
-    Hole (WhileHoleModule) v1.7.0\nModule by BakersDozenBagels, maintained by eXish\r\nTwitch
+    Hole (WhileHoleModule) v1.7.0\nModule by Anonymous, maintained by eXish\r\nTwitch
     Plays and Rule Seed supported"
   version: 1.7.0
   outputFolder: build
